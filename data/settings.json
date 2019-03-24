@@ -1,53 +1,48 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "WTM Antalya",
+    "twitter": "wtmantalya",
+    "blog": "https://medium.com/gdg-antalya",
+    "url": "http://gdgantalya.com/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-04-20T09:00:00+03:00",
+  "endDate": "2019-04-20T19:00:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "IWD Antalya",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "#IamRemarkable",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "Ana Sayfa"
     },
     {
       "route": "speakers",
       "permalink": "/speakers/",
-      "label": "Speakers"
+      "label": "Konuşmacı"
     },
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Program"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Takım"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "#IamRemarkable",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -63,9 +58,9 @@
       "fontColor": "#424242"
     },
     "speakers": {
-      "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "title": "Konuşmacılar",
+      "metaDescription": "IWD Antalya 2019 konuşmacıları çok kısa zamanda duyurulacak.",
+      "description": "IWD Antalya 2019 konuşmacıları çok kısa zamanda duyurulacak.",
       "background": {
         "color": "#FFF"
       },
@@ -80,7 +75,7 @@
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Program",
       "metaDescription": "Choose your sessions to visit",
       "background": {
         "color": "#fff"
@@ -113,21 +108,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Etkinlik Yeri",
+    "name": "Akdeniz Üniversitesi Hukuk Fakültesi",
+    "city": "Antalya",
+    "short": "Antalya, Türkiye",
+    "address": "Pınarbaşı Mh, Dumlupınar Blv., 07058 Konyaaltı, Antalya, Türkiye",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 36.8932905,
+      "longitude": 30.6535912,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 39,
+      "longitude": 30
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Akdeniz Üniversitesi Hukuk Fakültesi"
   },
   "mediaQueries": {
     "xs": {
@@ -149,23 +144,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDGAntalya/events/259021573/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/wtmantalya/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/wtmantalya/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/wtmantalya"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UC5PJa9CdSD9-ukQ6_rDz2RQ"
       }
     ],
     "share": [
@@ -183,7 +178,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "info@gdgantalya.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
